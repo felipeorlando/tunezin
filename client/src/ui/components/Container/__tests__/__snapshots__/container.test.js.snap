@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container renders correctly 1`] = `
+<div
+  className="sc-bdfBwQ djeIjE"
+>
+  Test
+</div>
+`;
+
+exports[`Container when receives compact prop renders correctly with different style 1`] = `
+<div
+  className="sc-bdfBwQ djeIjE"
+>
+  Test
+</div>
+`;

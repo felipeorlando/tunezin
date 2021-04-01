@@ -1,0 +1,6 @@
+{
+  "standard.workingDirectories": [
+    "api",
+    "client"
+  ]
+}

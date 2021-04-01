@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar renders correctly 1`] = `
+<nav
+  className="sc-hKgILt ikNWTJ"
+>
+  <div
+    className="sc-bdfBwQ sc-gsTCUz djeIjE czCETW"
+  >
+    <h1
+      className="sc-dlfnbm bQQYnX"
+    >
+      tunezin
+    </h1>
+  </div>
+</nav>
+`;
